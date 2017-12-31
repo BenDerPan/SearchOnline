@@ -1,0 +1,1604 @@
+{
+    "application/x-troff-man": {
+        "default": ".man",
+        "file_types": [
+            ".man"
+        ]
+    },
+    "application/x-wb1": {
+        "default": ".wb1",
+        "file_types": [
+            ".wb1"
+        ]
+    },
+    "video/vnd.rn-realvideo": {
+        "default": ".rv",
+        "file_types": [
+            ".rv"
+        ]
+    },
+    "text/xml": {
+        "default": ".xml",
+        "file_types": [
+            ".biz",
+            ".cml",
+            ".dcd",
+            ".dtd",
+            ".ent",
+            ".fo",
+            ".math",
+            ".mml",
+            ".mtx",
+            ".rdf",
+            ".spp",
+            ".svg",
+            ".tld",
+            ".tsd",
+            ".vml",
+            ".vxml",
+            ".wsdl",
+            ".xdr",
+            ".xml",
+            ".xq",
+            ".xql",
+            ".xquery",
+            ".xsd",
+            ".xsl",
+            ".xslt"
+        ]
+    },
+    "application/x-gl2": {
+        "default": ".gl2",
+        "file_types": [
+            ".gl2"
+        ]
+    },
+    "audio/basic": {
+        "default": ".au",
+        "file_types": [
+            ".au",
+            ".snd"
+        ]
+    },
+    "application/x-rgb": {
+        "default": ".rgb",
+        "file_types": [
+            ".rgb"
+        ]
+    },
+    "application/x-csi": {
+        "default": ".csi",
+        "file_types": [
+            ".csi"
+        ]
+    },
+    "application/x-mil": {
+        "default": ".mil",
+        "file_types": [
+            ".mil"
+        ]
+    },
+    "application/vnd.iphone": {
+        "default": ".ipa",
+        "file_types": [
+            ".ipa"
+        ]
+    },
+    "application/x-a11": {
+        "default": ".a11",
+        "file_types": [
+            ".a11"
+        ]
+    },
+    "audio/wav": {
+        "default": ".wav",
+        "file_types": [
+            ".wav"
+        ]
+    },
+    "audio/x-la-lms": {
+        "default": ".lmsff",
+        "file_types": [
+            ".lmsff"
+        ]
+    },
+    "application/x-plt": {
+        "default": ".plt",
+        "file_types": [
+            ".plt"
+        ]
+    },
+    "application/x-ms-wmz": {
+        "default": ".wmz",
+        "file_types": [
+            ".wmz"
+        ]
+    },
+    "application/fractals": {
+        "default": ".fif",
+        "file_types": [
+            ".fif"
+        ]
+    },
+    "text/vnd.rn-realtext": {
+        "default": ".rt",
+        "file_types": [
+            ".rt"
+        ]
+    },
+    "application/x-wk4": {
+        "default": ".wk4",
+        "file_types": [
+            ".wk4"
+        ]
+    },
+    "image/png": {
+        "default": ".png",
+        "file_types": [
+            ".png"
+        ]
+    },
+    "audio/mpegurl": {
+        "default": ".m3u",
+        "file_types": [
+            ".m3u"
+        ]
+    },
+    "application/x-xlw": {
+        "default": ".xlw",
+        "file_types": [
+            ".xlw"
+        ]
+    },
+    "application/x-icb": {
+        "default": ".icb",
+        "file_types": [
+            ".icb"
+        ]
+    },
+    "application/x-mdb": {
+        "default": ".mdb",
+        "file_types": [
+            ".mdb"
+        ]
+    },
+    "application/x-dcx": {
+        "default": ".dcx",
+        "file_types": [
+            ".dcx"
+        ]
+    },
+    "text/plain": {
+        "default": ".txt",
+        "file_types": [
+            ".sol",
+            ".sor",
+            ".txt"
+        ]
+    },
+    "text/webviewhtml": {
+        "default": ".htt",
+        "file_types": [
+            ".htt"
+        ]
+    },
+    "application/vnd.adobe.xfd": {
+        "default": ".xfd",
+        "file_types": [
+            ".xfd"
+        ]
+    },
+    "application/x-dxf": {
+        "default": ".dxf",
+        "file_types": [
+            ".dxf"
+        ]
+    },
+    "application/msword": {
+        "default": ".doc",
+        "file_types": [
+            ".doc",
+            ".dot",
+            ".rtf",
+            ".wiz"
+        ]
+    },
+    "application/hta": {
+        "default": ".hta",
+        "file_types": [
+            ".hta"
+        ]
+    },
+    "application/x-sam": {
+        "default": ".sam",
+        "file_types": [
+            ".sam"
+        ]
+    },
+    "application/x-emf": {
+        "default": ".emf",
+        "file_types": [
+            ".emf"
+        ]
+    },
+    "application/vnd.rn-realsystem-rjt": {
+        "default": ".rjt",
+        "file_types": [
+            ".rjt"
+        ]
+    },
+    "application/x-dwg": {
+        "default": ".dwg",
+        "file_types": [
+            ".dwg"
+        ]
+    },
+    "message/rfc822": {
+        "default": ".eml",
+        "file_types": [
+            ".eml",
+            ".mht",
+            ".mhtml",
+            ".nws"
+        ]
+    },
+    "image/x-icon": {
+        "default": ".ico",
+        "file_types": [
+            ".ico"
+        ]
+    },
+    "application/x-wk3": {
+        "default": ".wk3",
+        "file_types": [
+            ".wk3"
+        ]
+    },
+    "application/x-msdownload": {
+        "default": ".exe",
+        "file_types": [
+            ".dll",
+            ".exe"
+        ]
+    },
+    "application/x-wks": {
+        "default": ".wks",
+        "file_types": [
+            ".wks"
+        ]
+    },
+    "application/x-ps": {
+        "default": ".ps",
+        "file_types": [
+            ".eps",
+            ".ps"
+        ]
+    },
+    "application/x-pr": {
+        "default": ".pr",
+        "file_types": [
+            ".pr"
+        ]
+    },
+    "video/x-ivf": {
+        "default": ".IVF",
+        "file_types": [
+            ".IVF"
+        ]
+    },
+    "application/pkcs7-signature": {
+        "default": ".p7s",
+        "file_types": [
+            ".p7s"
+        ]
+    },
+    "application/x-g4": {
+        "default": ".g4",
+        "file_types": [
+            ".cg4",
+            ".g4",
+            ".ig4"
+        ]
+    },
+    "application/x-001": {
+        "default": ".001",
+        "file_types": [
+            ".001"
+        ]
+    },
+    "audio/x-liquid-file": {
+        "default": ".la1",
+        "file_types": [
+            ".la1"
+        ]
+    },
+    "application/x-ras": {
+        "default": ".ras",
+        "file_types": [
+            ".ras"
+        ]
+    },
+    "text/html": {
+        "default": ".htm",
+        "file_types": [
+            ".htm",
+            ".html",
+            ".htx",
+            ".jsp",
+            ".plg",
+            ".stm",
+            ".xhtml"
+        ]
+    },
+    "application/x-bmp": {
+        "default": ".bmp",
+        "file_types": [
+            ".bmp"
+        ]
+    },
+    "application/vnd.rn-realmedia-secure": {
+        "default": ".rms",
+        "file_types": [
+            ".rms"
+        ]
+    },
+    "application/octet-stream": {
+        "default": ".bin",
+        "file_types": [
+            ".bin"
+        ]
+    },
+    "application/x-dib": {
+        "default": ".dib",
+        "file_types": [
+            ".dib"
+        ]
+    },
+    "application/x-jpe": {
+        "default": ".jpe",
+        "file_types": [
+            ".jpe"
+        ]
+    },
+    "application/x-prt": {
+        "default": ".prt",
+        "file_types": [
+            ".prt"
+        ]
+    },
+    "image/tiff": {
+        "default": ".tif",
+        "file_types": [
+            ".tif",
+            ".tiff"
+        ]
+    },
+    "application/vnd.adobe.xfdf": {
+        "default": ".xfdf",
+        "file_types": [
+            ".xfdf"
+        ]
+    },
+    "application/x-pcl": {
+        "default": ".pcl",
+        "file_types": [
+            ".pcl"
+        ]
+    },
+    "application/x-bot": {
+        "default": ".bot",
+        "file_types": [
+            ".bot"
+        ]
+    },
+    "text/asp": {
+        "default": ".asp",
+        "file_types": [
+            ".asp"
+        ]
+    },
+    "application/vnd.rn-realplayer": {
+        "default": ".rnx",
+        "file_types": [
+            ".rnx"
+        ]
+    },
+    "application/x-cel": {
+        "default": ".cel",
+        "file_types": [
+            ".cel"
+        ]
+    },
+    "video/mpg": {
+        "default": ".mpg",
+        "file_types": [
+            ".mpeg",
+            ".mpg",
+            ".mpv"
+        ]
+    },
+    "audio/x-pn-realaudio-plugin": {
+        "default": ".rpm",
+        "file_types": [
+            ".rpm"
+        ]
+    },
+    "application/x-wr1": {
+        "default": ".wr1",
+        "file_types": [
+            ".wr1"
+        ]
+    },
+    "application/rat-file": {
+        "default": ".rat",
+        "file_types": [
+            ".rat"
+        ]
+    },
+    "audio/scpls": {
+        "default": ".pls",
+        "file_types": [
+            ".pls",
+            ".xpl"
+        ]
+    },
+    "video/x-mpg": {
+        "default": ".mpa",
+        "file_types": [
+            ".mpa"
+        ]
+    },
+    "application/x-c4t": {
+        "default": ".c4t",
+        "file_types": [
+            ".c4t"
+        ]
+    },
+    "application/x-ppm": {
+        "default": ".ppm",
+        "file_types": [
+            ".ppm"
+        ]
+    },
+    "application/x-ws": {
+        "default": ".ws",
+        "file_types": [
+            ".ws",
+            ".ws2"
+        ]
+    },
+    "application/vnd.adobe.workflow": {
+        "default": ".awf",
+        "file_types": [
+            ".awf"
+        ]
+    },
+    "application/x-cot": {
+        "default": ".cot",
+        "file_types": [
+            ".cot"
+        ]
+    },
+    "application/vnd.ms-wpl": {
+        "default": ".wpl",
+        "file_types": [
+            ".wpl"
+        ]
+    },
+    "application/x-img": {
+        "default": ".img",
+        "file_types": [
+            ".img"
+        ]
+    },
+    "application/pkcs7-mime": {
+        "default": ".p7c",
+        "file_types": [
+            ".p7c",
+            ".p7m"
+        ]
+    },
+    "audio/vnd.rn-realaudio": {
+        "default": ".ra",
+        "file_types": [
+            ".ra"
+        ]
+    },
+    "application/x-cit": {
+        "default": ".cit",
+        "file_types": [
+            ".cit"
+        ]
+    },
+    "application/x-slb": {
+        "default": ".slb",
+        "file_types": [
+            ".slb"
+        ]
+    },
+    "image/vnd.rn-realpix": {
+        "default": ".rp",
+        "file_types": [
+            ".rp"
+        ]
+    },
+    "application/vnd.visio": {
+        "default": ".vsd",
+        "file_types": [
+            ".vdx",
+            ".vsd",
+            ".vss",
+            ".vst",
+            ".vsw",
+            ".vsx",
+            ".vtx"
+        ]
+    },
+    "application/x-wrk": {
+        "default": ".wrk",
+        "file_types": [
+            ".wrk"
+        ]
+    },
+    "application/x-silverlight-app": {
+        "default": ".xap",
+        "file_types": [
+            ".xap"
+        ]
+    },
+    "application/x-sdw": {
+        "default": ".sdw",
+        "file_types": [
+            ".sdw"
+        ]
+    },
+    "application/x-301": {
+        "default": ".301",
+        "file_types": [
+            ".301"
+        ]
+    },
+    "application/x-smk": {
+        "default": ".smk",
+        "file_types": [
+            ".smk"
+        ]
+    },
+    "application/vnd.ms-pki.stl": {
+        "default": ".stl",
+        "file_types": [
+            ".stl"
+        ]
+    },
+    "application/x-sld": {
+        "default": ".sld",
+        "file_types": [
+            ".sld"
+        ]
+    },
+    "application/x-mi": {
+        "default": ".mi",
+        "file_types": [
+            ".mi"
+        ]
+    },
+    "application/x-pgl": {
+        "default": ".pgl",
+        "file_types": [
+            ".pgl"
+        ]
+    },
+    "application/vnd.ms-powerpoint": {
+        "default": ".ppt",
+        "file_types": [
+            ".pot",
+            ".ppa",
+            ".pps",
+            ".ppt",
+            ".pwz"
+        ]
+    },
+    "application/x-ppt": {
+        "default": ".ppt",
+        "file_types": [
+            ".ppt"
+        ]
+    },
+    "application/postscript": {
+        "default": ".eps",
+        "file_types": [
+            ".ai",
+            ".eps",
+            ".ps"
+        ]
+    },
+    "audio/x-ms-wma": {
+        "default": ".wma",
+        "file_types": [
+            ".wma"
+        ]
+    },
+    "text/iuls": {
+        "default": ".uls",
+        "file_types": [
+            ".uls"
+        ]
+    },
+    "application/x-pc5": {
+        "default": ".pc5",
+        "file_types": [
+            ".pc5"
+        ]
+    },
+    "video/x-ms-wmv": {
+        "default": ".wmv",
+        "file_types": [
+            ".wmv"
+        ]
+    },
+    "application/vnd.rn-rsml": {
+        "default": ".rsml",
+        "file_types": [
+            ".rsml"
+        ]
+    },
+    "application/x-iff": {
+        "default": ".iff",
+        "file_types": [
+            ".iff"
+        ]
+    },
+    "application/x-vda": {
+        "default": ".vda",
+        "file_types": [
+            ".vda"
+        ]
+    },
+    "application/x-iphone": {
+        "default": ".iii",
+        "file_types": [
+            ".iii"
+        ]
+    },
+    "drawing/x-top": {
+        "default": ".top",
+        "file_types": [
+            ".top"
+        ]
+    },
+    "audio/mid": {
+        "default": ".mid",
+        "file_types": [
+            ".mid",
+            ".midi",
+            ".rmi"
+        ]
+    },
+    "text/scriptlet": {
+        "default": ".wsc",
+        "file_types": [
+            ".wsc"
+        ]
+    },
+    "application/sdp": {
+        "default": ".sdp",
+        "file_types": [
+            ".sdp"
+        ]
+    },
+    "audio/mp1": {
+        "default": ".mp1",
+        "file_types": [
+            ".mp1"
+        ]
+    },
+    "application/x-pkcs12": {
+        "default": ".p12",
+        "file_types": [
+            ".p12",
+            ".pfx"
+        ]
+    },
+    "image/fax": {
+        "default": ".fax",
+        "file_types": [
+            ".fax"
+        ]
+    },
+    "application/x-vpeg005": {
+        "default": ".vpg",
+        "file_types": [
+            ".vpg"
+        ]
+    },
+    "text/css": {
+        "default": ".css",
+        "file_types": [
+            ".css"
+        ]
+    },
+    "application/pdf": {
+        "default": ".pdf",
+        "file_types": [
+            ".pdf"
+        ]
+    },
+    "video/mpeg": {
+        "default": ".mp2v",
+        "file_types": [
+            ".mp2v",
+            ".mpv2"
+        ]
+    },
+    "application/x-icq": {
+        "default": ".uin",
+        "file_types": [
+            ".uin"
+        ]
+    },
+    "application/x-prn": {
+        "default": ".prn",
+        "file_types": [
+            ".prn"
+        ]
+    },
+    "application/x-pcx": {
+        "default": ".pcx",
+        "file_types": [
+            ".pcx"
+        ]
+    },
+    "application/x-jpg": {
+        "default": ".jpg",
+        "file_types": [
+            ".jpg"
+        ]
+    },
+    "application/x-tif": {
+        "default": ".tif",
+        "file_types": [
+            ".tif"
+        ]
+    },
+    "application/x-906": {
+        "default": ".906",
+        "file_types": [
+            ".906"
+        ]
+    },
+    "video/avi": {
+        "default": ".avi",
+        "file_types": [
+            ".avi"
+        ]
+    },
+    "application/x-netcdf": {
+        "default": ".cdf",
+        "file_types": [
+            ".cdf"
+        ]
+    },
+    "application/x-pkcs7-certreqresp": {
+        "default": ".p7r",
+        "file_types": [
+            ".p7r"
+        ]
+    },
+    "application/vnd.ms-pki.certstore": {
+        "default": ".sst",
+        "file_types": [
+            ".sst"
+        ]
+    },
+    "application/x-dbm": {
+        "default": ".dbm",
+        "file_types": [
+            ".dbm"
+        ]
+    },
+    "application/x-out": {
+        "default": ".out",
+        "file_types": [
+            ".out"
+        ]
+    },
+    "text/vnd.rn-realtext3d": {
+        "default": ".r3t",
+        "file_types": [
+            ".r3t"
+        ]
+    },
+    "application/smil": {
+        "default": ".smil",
+        "file_types": [
+            ".smi",
+            ".smil"
+        ]
+    },
+    "application/x-sty": {
+        "default": ".sty",
+        "file_types": [
+            ".sty"
+        ]
+    },
+    "application/x-red": {
+        "default": ".red",
+        "file_types": [
+            ".red"
+        ]
+    },
+    "audio/x-musicnet-stream": {
+        "default": ".mns",
+        "file_types": [
+            ".mns"
+        ]
+    },
+    "application/x-x_b": {
+        "default": ".x_b",
+        "file_types": [
+            ".x_b"
+        ]
+    },
+    "application/x-ico": {
+        "default": ".ico",
+        "file_types": [
+            ".ico"
+        ]
+    },
+    "application/x-frm": {
+        "default": ".frm",
+        "file_types": [
+            ".frm"
+        ]
+    },
+    "text/h323": {
+        "default": ".323",
+        "file_types": [
+            ".323"
+        ]
+    },
+    "application/x-cmp": {
+        "default": ".cmp",
+        "file_types": [
+            ".cmp"
+        ]
+    },
+    "application/x-hgl": {
+        "default": ".hgl",
+        "file_types": [
+            ".hgl"
+        ]
+    },
+    "application/pics-rules": {
+        "default": ".prf",
+        "file_types": [
+            ".prf"
+        ]
+    },
+    "application/x-pkcs7-certificates": {
+        "default": ".spc",
+        "file_types": [
+            ".p7b",
+            ".spc"
+        ]
+    },
+    "Model/vnd.dwf": {
+        "default": ".dwf",
+        "file_types": [
+            ".dwf"
+        ]
+    },
+    "application/x-javascript": {
+        "default": ".js",
+        "file_types": [
+            ".js",
+            ".ls",
+            ".mocha"
+        ]
+    },
+    "application/x-wpd": {
+        "default": ".wpd",
+        "file_types": [
+            ".wpd"
+        ]
+    },
+    "application/pkix-crl": {
+        "default": ".crl",
+        "file_types": [
+            ".crl"
+        ]
+    },
+    "application/msaccess": {
+        "default": ".mdb",
+        "file_types": [
+            ".mdb"
+        ]
+    },
+    "application/x-wmf": {
+        "default": ".wmf",
+        "file_types": [
+            ".wmf"
+        ]
+    },
+    "video/x-ms-wvx": {
+        "default": ".wvx",
+        "file_types": [
+            ".wvx"
+        ]
+    },
+    "audio/x-ms-wax": {
+        "default": ".wax",
+        "file_types": [
+            ".wax"
+        ]
+    },
+    "image/pnetvue": {
+        "default": ".net",
+        "file_types": [
+            ".net"
+        ]
+    },
+    "application/vnd.adobe.edn": {
+        "default": ".edn",
+        "file_types": [
+            ".edn"
+        ]
+    },
+    "application/x-hpl": {
+        "default": ".hpl",
+        "file_types": [
+            ".hpl"
+        ]
+    },
+    "application/vnd.rn-realmedia": {
+        "default": ".rm",
+        "file_types": [
+            ".rm"
+        ]
+    },
+    "video/x-ms-wmx": {
+        "default": ".wmx",
+        "file_types": [
+            ".wmx"
+        ]
+    },
+    "application/vnd.symbian.install": {
+        "default": ".sis",
+        "file_types": [
+            ".sis",
+            ".sisx"
+        ]
+    },
+    "application/x-wp6": {
+        "default": ".wp6",
+        "file_types": [
+            ".wp6"
+        ]
+    },
+    "application/x-ms-wmd": {
+        "default": ".wmd",
+        "file_types": [
+            ".wmd"
+        ]
+    },
+    "application/x-dxb": {
+        "default": ".dxb",
+        "file_types": [
+            ".dxb"
+        ]
+    },
+    "video/mpeg4": {
+        "default": ".mp4",
+        "file_types": [
+            ".m4e",
+            ".mp4"
+        ]
+    },
+    "application/x-png": {
+        "default": ".png",
+        "file_types": [
+            ".png"
+        ]
+    },
+    "audio/aiff": {
+        "default": ".aif",
+        "file_types": [
+            ".aif",
+            ".aifc",
+            ".aiff"
+        ]
+    },
+    "application/x-vsd": {
+        "default": ".vsd",
+        "file_types": [
+            ".vsd"
+        ]
+    },
+    "application/x-epi": {
+        "default": ".epi",
+        "file_types": [
+            ".epi"
+        ]
+    },
+    "audio/x-mei-aac": {
+        "default": ".acp",
+        "file_types": [
+            ".acp"
+        ]
+    },
+    "application/vnd.ms-pki.seccat": {
+        "default": ".cat",
+        "file_types": [
+            ".cat"
+        ]
+    },
+    "application/x-sat": {
+        "default": ".sat",
+        "file_types": [
+            ".sat"
+        ]
+    },
+    "application/x-shockwave-flash": {
+        "default": ".swf",
+        "file_types": [
+            ".mfp",
+            ".swf"
+        ]
+    },
+    "application/x-pic": {
+        "default": ".pic",
+        "file_types": [
+            ".pic"
+        ]
+    },
+    "application/x-cmx": {
+        "default": ".cmx",
+        "file_types": [
+            ".cmx"
+        ]
+    },
+    "application/x-wb3": {
+        "default": ".wb3",
+        "file_types": [
+            ".wb3"
+        ]
+    },
+    "application/x-dbf": {
+        "default": ".dbf",
+        "file_types": [
+            ".dbf"
+        ]
+    },
+    "application/x-pci": {
+        "default": ".pci",
+        "file_types": [
+            ".pci"
+        ]
+    },
+    "application/x-mmxp": {
+        "default": ".mxp",
+        "file_types": [
+            ".mxp"
+        ]
+    },
+    "drawing/x-slk": {
+        "default": ".slk",
+        "file_types": [
+            ".slk"
+        ]
+    },
+    "application/x-hrf": {
+        "default": ".hrf",
+        "file_types": [
+            ".hrf"
+        ]
+    },
+    "text/x-vcard": {
+        "default": ".vcf",
+        "file_types": [
+            ".vcf"
+        ]
+    },
+    "application/x-gbr": {
+        "default": ".gbr",
+        "file_types": [
+            ".gbr"
+        ]
+    },
+    "application/x-": {
+        "default": ".",
+        "file_types": [
+            "."
+        ]
+    },
+    "application/x-cdr": {
+        "default": ".cdr",
+        "file_types": [
+            ".cdr"
+        ]
+    },
+    "application/vnd.adobe.rmf": {
+        "default": ".rmf",
+        "file_types": [
+            ".rmf"
+        ]
+    },
+    "video/x-mpeg": {
+        "default": ".mpe",
+        "file_types": [
+            ".m1v",
+            ".m2v",
+            ".mpe",
+            ".mps"
+        ]
+    },
+    "audio/rn-mpeg": {
+        "default": ".mpga",
+        "file_types": [
+            ".mpga"
+        ]
+    },
+    "audio/x-pn-realaudio": {
+        "default": ".ram",
+        "file_types": [
+            ".ram",
+            ".rmm"
+        ]
+    },
+    "application/x-internet-signup": {
+        "default": ".isp",
+        "file_types": [
+            ".ins",
+            ".isp"
+        ]
+    },
+    "application/x-ltr": {
+        "default": ".ltr",
+        "file_types": [
+            ".ltr"
+        ]
+    },
+    "application/x-stuffit": {
+        "default": ".sit",
+        "file_types": [
+            ".sit"
+        ]
+    },
+    "drawing/907": {
+        "default": ".907",
+        "file_types": [
+            ".907"
+        ]
+    },
+    "image/vnd.wap.wbmp": {
+        "default": ".wbmp",
+        "file_types": [
+            ".wbmp"
+        ]
+    },
+    "text/asa": {
+        "default": ".asa",
+        "file_types": [
+            ".asa"
+        ]
+    },
+    "application/x-wq1": {
+        "default": ".wq1",
+        "file_types": [
+            ".wq1"
+        ]
+    },
+    "application/x-cals": {
+        "default": ".cal",
+        "file_types": [
+            ".cal"
+        ]
+    },
+    "audio/x-musicnet-download": {
+        "default": ".mnd",
+        "file_types": [
+            ".mnd"
+        ]
+    },
+    "application/x-dgn": {
+        "default": ".dgn",
+        "file_types": [
+            ".dgn"
+        ]
+    },
+    "application/x-x509-ca-cert": {
+        "default": ".cer",
+        "file_types": [
+            ".cer",
+            ".crt",
+            ".der"
+        ]
+    },
+    "application/x-hmr": {
+        "default": ".hmr",
+        "file_types": [
+            ".hmr"
+        ]
+    },
+    "video/x-ms-wm": {
+        "default": ".wm",
+        "file_types": [
+            ".wm"
+        ]
+    },
+    "application/vnd.ms-pki.pko": {
+        "default": ".pko",
+        "file_types": [
+            ".pko"
+        ]
+    },
+    "application/x-latex": {
+        "default": ".latex",
+        "file_types": [
+            ".latex"
+        ]
+    },
+    "application/x-mac": {
+        "default": ".mac",
+        "file_types": [
+            ".mac"
+        ]
+    },
+    "application/x-xls": {
+        "default": ".xls",
+        "file_types": [
+            ".xls"
+        ]
+    },
+    "application/vnd.rn-rn_music_package": {
+        "default": ".rmp",
+        "file_types": [
+            ".rmp"
+        ]
+    },
+    "application/x-xwd": {
+        "default": ".xwd",
+        "file_types": [
+            ".xwd"
+        ]
+    },
+    "audio/mp3": {
+        "default": ".mp3",
+        "file_types": [
+            ".mp3"
+        ]
+    },
+    "application/x-tdf": {
+        "default": ".tdf",
+        "file_types": [
+            ".tdf"
+        ]
+    },
+    "text/x-ms-odc": {
+        "default": ".odc",
+        "file_types": [
+            ".odc"
+        ]
+    },
+    "application/x-wb2": {
+        "default": ".wb2",
+        "file_types": [
+            ".wb2"
+        ]
+    },
+    "application/x-igs": {
+        "default": ".igs",
+        "file_types": [
+            ".igs"
+        ]
+    },
+    "java/*": {
+        "default": ".class",
+        "file_types": [
+            ".class",
+            ".java"
+        ]
+    },
+    "application/x-gp4": {
+        "default": ".gp4",
+        "file_types": [
+            ".gp4"
+        ]
+    },
+    "application/x-ebx": {
+        "default": ".etd",
+        "file_types": [
+            ".etd"
+        ]
+    },
+    "application/x-bittorrent": {
+        "default": ".torrent",
+        "file_types": [
+            ".torrent"
+        ]
+    },
+    "application/vnd.fdf": {
+        "default": ".fdf",
+        "file_types": [
+            ".fdf"
+        ]
+    },
+    "application/vnd.rn-realsystem-rmj": {
+        "default": ".rmj",
+        "file_types": [
+            ".rmj"
+        ]
+    },
+    "application/x-wpg": {
+        "default": ".wpg",
+        "file_types": [
+            ".wpg"
+        ]
+    },
+    "application/vnd.ms-project": {
+        "default": ".mpp",
+        "file_types": [
+            ".mpd",
+            ".mpp",
+            ".mpt",
+            ".mpw",
+            ".mpx"
+        ]
+    },
+    "application/x-cgm": {
+        "default": ".cgm",
+        "file_types": [
+            ".cgm"
+        ]
+    },
+    "audio/mp2": {
+        "default": ".mp2",
+        "file_types": [
+            ".mp2"
+        ]
+    },
+    "application/x-nrf": {
+        "default": ".nrf",
+        "file_types": [
+            ".nrf"
+        ]
+    },
+    "application/vnd.adobe.pdx": {
+        "default": ".pdx",
+        "file_types": [
+            ".pdx"
+        ]
+    },
+    "application/x-vst": {
+        "default": ".vst",
+        "file_types": [
+            ".vst"
+        ]
+    },
+    "application/x-dwf": {
+        "default": ".dwf",
+        "file_types": [
+            ".dwf"
+        ]
+    },
+    "application/streamingmedia": {
+        "default": ".ssm",
+        "file_types": [
+            ".ssm"
+        ]
+    },
+    "application/x-lbm": {
+        "default": ".lbm",
+        "file_types": [
+            ".lbm"
+        ]
+    },
+    "application/x-laplayer-reg": {
+        "default": ".lar",
+        "file_types": [
+            ".lar"
+        ]
+    },
+    "application/vnd.rn-realsystem-rjs": {
+        "default": ".rjs",
+        "file_types": [
+            ".rjs"
+        ]
+    },
+    "application/x-rtf": {
+        "default": ".rtf",
+        "file_types": [
+            ".rtf"
+        ]
+    },
+    "application/x-drw": {
+        "default": ".drw",
+        "file_types": [
+            ".drw"
+        ]
+    },
+    "application/vnd.rn-realsystem-rmx": {
+        "default": ".rmx",
+        "file_types": [
+            ".rmx"
+        ]
+    },
+    "application/x-x_t": {
+        "default": ".x_t",
+        "file_types": [
+            ".x_t"
+        ]
+    },
+    "application/pkcs10": {
+        "default": ".p10",
+        "file_types": [
+            ".p10"
+        ]
+    },
+    "application/vnd.ms-excel": {
+        "default": ".xls",
+        "file_types": [
+            ".xls"
+        ]
+    },
+    "audio/x-liquid-secure": {
+        "default": ".lavs",
+        "file_types": [
+            ".lavs"
+        ]
+    },
+    "application/vnd.android.package-archive": {
+        "default": ".apk",
+        "file_types": [
+            ".apk"
+        ]
+    },
+    "application/x-dbx": {
+        "default": ".dbx",
+        "file_types": [
+            ".dbx"
+        ]
+    },
+    "text/vnd.wap.wml": {
+        "default": ".wml",
+        "file_types": [
+            ".wml"
+        ]
+    },
+    "application/x-hpgl": {
+        "default": ".hpg",
+        "file_types": [
+            ".hpg"
+        ]
+    },
+    "application/x-wkq": {
+        "default": ".wkq",
+        "file_types": [
+            ".wkq"
+        ]
+    },
+    "application/mac-binhex40": {
+        "default": ".hqx",
+        "file_types": [
+            ".hqx"
+        ]
+    },
+    "application/x-tg4": {
+        "default": ".tg4",
+        "file_types": [
+            ".tg4"
+        ]
+    },
+    "application/x-tga": {
+        "default": ".tga",
+        "file_types": [
+            ".tga"
+        ]
+    },
+    "application/x-ptn": {
+        "default": ".ptn",
+        "file_types": [
+            ".ptn"
+        ]
+    },
+    "image/jpeg": {
+        "default": ".jpeg",
+        "file_types": [
+            ".jfif",
+            ".jpe",
+            ".jpeg",
+            ".jpg"
+        ]
+    },
+    "application/vnd.rn-recording": {
+        "default": ".rec",
+        "file_types": [
+            ".rec"
+        ]
+    },
+    "text/x-component": {
+        "default": ".htc",
+        "file_types": [
+            ".htc"
+        ]
+    },
+    "application/x-wri": {
+        "default": ".wri",
+        "file_types": [
+            ".wri"
+        ]
+    },
+    "application/x-cut": {
+        "default": ".cut",
+        "file_types": [
+            ".cut"
+        ]
+    },
+    "application/x-rle": {
+        "default": ".rle",
+        "file_types": [
+            ".rle"
+        ]
+    },
+    "application/x-c90": {
+        "default": ".c90",
+        "file_types": [
+            ".c90"
+        ]
+    },
+    "video/x-ms-asf": {
+        "default": ".asf",
+        "file_types": [
+            ".asf",
+            ".asx"
+        ]
+    },
+    "application/x-anv": {
+        "default": ".anv",
+        "file_types": [
+            ".anv"
+        ]
+    },
+    "image/gif": {
+        "default": ".gif",
+        "file_types": [
+            ".gif"
+        ]
+    },
+    "application/vnd.adobe.xdp": {
+        "default": ".xdp",
+        "file_types": [
+            ".xdp"
+        ]
+    },
+    "application/x-rlc": {
+        "default": ".rlc",
+        "file_types": [
+            ".rlc"
+        ]
+    },
+    "application/x-perl": {
+        "default": ".pl",
+        "file_types": [
+            ".pl"
+        ]
+    },
+    "video/x-sgi-movie": {
+        "default": ".movie",
+        "file_types": [
+            ".movie"
+        ]
+    },
+    "application/futuresplash": {
+        "default": ".spl",
+        "file_types": [
+            ".spl"
+        ]
+    },
+    "application/vnd.rn-realmedia-vbr": {
+        "default": ".rmvb",
+        "file_types": [
+            ".rmvb"
+        ]
+    }
+}
