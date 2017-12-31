@@ -39,6 +39,7 @@
                         }
                     ]
                 }
+              //...此处省略若干
             },
             "num_results": 10
         }
@@ -51,9 +52,9 @@
             'http://blog.csdn.net/nero_g/article/details/52912305',
             'https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike150%2C5%2C5%2C150%2C50/sign=c05506e79482d158af8f51e3e16372bd/c2fdfc039245d688c56332adacc27d1ed21b2451.jpg'
         ]
-        for url in urls:
-            urlData = WebPageOnlineEngine.get_url_content(url)
-            print(json.dumps(urlData,indent=4,ensure_ascii=False))
+    for url in urls:
+        urlData = WebPageOnlineEngine.get_url_content(url)
+        print(json.dumps(urlData,indent=4,ensure_ascii=False))
     ```
     
     输出结果：
