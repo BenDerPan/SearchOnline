@@ -60,15 +60,15 @@
     
     ```json
     {
-        "file_extension": ".htm",   #URL对应的文件类型
-        "error": 0,       #错误码，0-表示正常，其他表示出现错误
-        "error_msg": "",   #若出现错误，错误消息内容
-        "url": "http://blog.csdn.net/nero_g/article/details/52912305",   #加载内容原始URL地址
-        "b64_data": "Cgo8IURPQ1RZU....==",     #URL对应内容base64编码字符串，需要对应解码
-        "content_type_origin": "text/html; charset=utf-8",    #原始URL请求Response　Header头部原始Content-Type类型
-        "time": 1514717424,    #内容返回处理的时间戳
-        "content_type": "text/html",     #原始URL请求Response　Header头部Content-Type   内容类型，不含其他附加值
-        "status": 200    #URL访问返回的Http Status Code
+        "file_extension": ".htm",   //URL对应的文件类型
+        "error": 0,       //错误码，0-表示正常，其他表示出现错误
+        "error_msg": "",   //若出现错误，错误消息内容
+        "url": "http://blog.csdn.net/nero_g/article/details/52912305",  //加载内容原始URL地址
+        "b64_data": "Cgo8IURPQ1RZU....==",     //URL对应内容base64编码字符串，需要对应解码
+        "content_type_origin": "text/html; charset=utf-8",    //原始URL请求Response　Header头部原始Content-Type类型
+        "time": 1514717424,    //内容返回处理的时间戳
+        "content_type": "text/html",     //原始URL请求Response　Header头部Content-Type   内容类型，不含其他附加值
+        "status": 200   //URL访问返回的Http Status Code
     }
     ```
 * 完整代码参考 `web_page_online.py`
