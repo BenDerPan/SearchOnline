@@ -198,6 +198,6 @@ if __name__ == '__main__':
         urlData = WebPageOnlineEngine.get_url_content(url)
         print(json.dumps(urlData,indent=4,ensure_ascii=False))
         #内容还原成文件
-        fileName="{0}.{1}".format(datetime.datetime.now().timestamp(),urlData['file_extension'])
+        fileName="{0}{1}".format(datetime.datetime.now().timestamp(),urlData['file_extension'])
         with open(fileName,"wb") as fw:
             fw.write(base64.b64decode(urlData['b64_data']))
